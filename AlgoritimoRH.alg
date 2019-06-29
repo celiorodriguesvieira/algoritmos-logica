@@ -1,14 +1,14 @@
-algoritmo "RH Software"
-// Função :
+algoritmo "RH Software 2"
+// Funï¿½ï¿½o :
 // Autor :
 // Data : 08/06/2019
-// Seção de Declarações 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es 
 var
 salario: real
 horario: inteiro
 inicio
-// Seção de Comandos
-escreval("Digite sua Pretenção Sálarial R$: ")
+// Seï¿½ï¿½o de Comandos
+escreval("Digite sua Pretenï¿½ï¿½o Sï¿½larial R$: ")
     leia (salario)
 se (salario <=2000) entao
    escreva("Candidato APROVADO: ")
